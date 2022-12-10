@@ -15,7 +15,6 @@ st.subheader(
     "Relación entre el presupuesto en educación de Sonora vs la cantidad de estudiantes matriculados en educación superior en los municipios de Sonora"
 )
 col1, col2 = st.columns(2)
-municipios_son = json.load(open("./son-municipal.geojson", "r"))
 
 # Data a un DataFrame
 df_presupuesto = pd.read_csv("./PresupuestoEduSonora.csv")
