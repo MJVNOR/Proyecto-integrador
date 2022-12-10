@@ -1,1 +1,2 @@
 # Proyecto-integrador
+El problema que se busca resolver con la inversión en educación es determinar si hay una relación entre el aumento de la inversión y el aumento del número de personas que estudian. Esto se puede lograr a través del análisis de datos y el uso de modelos estadísticos para determinar si existe una correlación entre la inversión en educación y el aumento del número de estudiantes. Con esta información, se pueden tomar decisiones informadas sobre la inversión en educación y cómo afecta a la tasa de educación en una comunidad.
