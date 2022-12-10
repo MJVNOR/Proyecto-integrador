@@ -4,6 +4,12 @@ import numpy as np
 import plotly.express as px
 import json
 
+st.set_page_config(
+    page_title="Proyecto Integrador",
+    page_icon="🤘",
+    layout="wide",
+)
+
 st.title("Proyecto Integrador")
 st.subheader(
     "Relación entre el presupuesto en educación de Sonora vs la cantidad de estudiantes matriculados en educación superior en los municipios de Sonora"
